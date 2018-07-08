@@ -1,0 +1,62 @@
+{
+  "name": "search-off-canvas",
+  "version": "1.0.0",
+  "description": "Application to serve responses to search off canvas requests.",
+  "main": "src",
+  "scripts": {
+    "test": "mocha --require babel-core/register test/*",
+    "test:watch": "mocha -w --require babel-core/register test/*",
+    "coverage": "NODE_ENV=test nyc mocha --recursive"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "author": "davidoleary",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-istanbul": "^4.1.5",
+    "babel-plugin-transform-regenerator": "^6.26.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "chai": "^4.1.2",
+    "eslint": "^3.19.0",
+    "eslint-config-mf": "^1.1.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.4.0",
+    "mocha": "^4.0.1",
+    "nyc": "^11.2.1",
+    "proxyquire": "^1.8.0",
+    "redis-mock": "^0.20.0",
+    "serverless-webpack": "^3.1.2",
+    "sinon": "^4.0.2",
+    "webpack": "^3.8.1",
+    "webpack-node-externals": "^1.6.0"
+  },
+  "dependencies": {
+    "path": "^0.12.7",
+    "redis": "^2.8.0",
+    "uuid": "^3.1.0"
+  },
+  "nyc": {
+    "exclude": [
+      "**/*.spec.js"
+    ],
+    "include": [
+      "src/**/*.js"
+    ],
+    "reporter": [
+      "lcov"
+    ],
+    "require": [
+      "babel-register"
+    ],
+    "cache": true,
+    "sourceMap": false,
+    "instrument": false,
+    "all": true
+  }
+}

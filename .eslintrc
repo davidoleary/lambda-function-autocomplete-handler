@@ -1,0 +1,6 @@
+{
+  "extends": "eslint-config-mf",
+  "env": {
+    "mocha": true
+  }
+}

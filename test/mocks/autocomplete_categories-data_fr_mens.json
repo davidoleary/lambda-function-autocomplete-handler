@@ -1,0 +1,752 @@
+[
+  {
+    "name": "Accessoires",
+    "parentName": "",
+    "url": "/mens/shop/accessories?is=Accessoires"
+  },
+  {
+    "name": "Chaussures",
+    "parentName": "",
+    "url": "/mens/shop/shoes?is=Chaussures"
+  },
+  {
+    "name": "Sacs",
+    "parentName": "",
+    "url": "/mens/shop/bags?is=Sacs"
+  },
+  {
+    "name": "Vêtements",
+    "parentName": "",
+    "url": "/mens/shop/clothing?is=Vêtements"
+  },
+  {
+    "name": "Bijoux",
+    "parentName": "Accessoires",
+    "url": "/mens/shop/accessories/jewellery?is=Bijoux"
+  },
+  {
+    "name": "Boutons de manchette, pinces et épingles",
+    "parentName": "Accessoires",
+    "url": "/mens/shop/accessories/cufflinks,-pins-and-clips?is=Boutons de manchette, pinces et épingles"
+  },
+  {
+    "name": "Carrés pour pochette",
+    "parentName": "Accessoires",
+    "url": "/mens/shop/accessories/pocket-squares?is=Carrés pour pochette"
+  },
+  {
+    "name": "Ceintures",
+    "parentName": "Accessoires",
+    "url": "/mens/shop/accessories/belts?is=Ceintures"
+  },
+  {
+    "name": "Chapeaux",
+    "parentName": "Accessoires",
+    "url": "/mens/shop/accessories/hats?is=Chapeaux"
+  },
+  {
+    "name": "Chaussettes",
+    "parentName": "Accessoires",
+    "url": "/mens/shop/accessories/socks?is=Chaussettes"
+  },
+  {
+    "name": "Cravates",
+    "parentName": "Accessoires",
+    "url": "/mens/shop/accessories/ties?is=Cravates"
+  },
+  {
+    "name": "Gants",
+    "parentName": "Accessoires",
+    "url": "/mens/shop/accessories/gloves?is=Gants"
+  },
+  {
+    "name": "Lifestyle",
+    "parentName": "Accessoires",
+    "url": "/mens/shop/accessories/lifestyle?is=Lifestyle"
+  },
+  {
+    "name": "Lunettes de soleil",
+    "parentName": "Accessoires",
+    "url": "/mens/shop/accessories/sunglasses?is=Lunettes de soleil"
+  },
+  {
+    "name": "Papeterie",
+    "parentName": "Accessoires",
+    "url": "/mens/shop/accessories/stationery?is=Papeterie"
+  },
+  {
+    "name": "Parapluies",
+    "parentName": "Accessoires",
+    "url": "/mens/shop/accessories/umbrellas?is=Parapluies"
+  },
+  {
+    "name": "Porte-clés",
+    "parentName": "Accessoires",
+    "url": "/mens/shop/accessories/keyrings?is=Porte-clés"
+  },
+  {
+    "name": "Portefeuilles",
+    "parentName": "Accessoires",
+    "url": "/mens/shop/accessories/wallets?is=Portefeuilles"
+  },
+  {
+    "name": "Technologie",
+    "parentName": "Accessoires",
+    "url": "/mens/shop/accessories/technology?is=Technologie"
+  },
+  {
+    "name": "Trousses de toilette",
+    "parentName": "Accessoires",
+    "url": "/mens/shop/accessories/washbags?is=Trousses de toilette"
+  },
+  {
+    "name": "Écharpes",
+    "parentName": "Accessoires",
+    "url": "/mens/shop/accessories/scarves?is=Écharpes"
+  },
+  {
+    "name": "Accessoires chaussures",
+    "parentName": "Chaussures",
+    "url": "/mens/shop/shoes/shoe-accessories?is=Accessoires chaussures"
+  },
+  {
+    "name": "Baskets",
+    "parentName": "Chaussures",
+    "url": "/mens/shop/shoes/sneakers?is=Baskets"
+  },
+  {
+    "name": "Bottes",
+    "parentName": "Chaussures",
+    "url": "/mens/shop/shoes/boots?is=Bottes"
+  },
+  {
+    "name": "Chaussures de ville",
+    "parentName": "Chaussures",
+    "url": "/mens/shop/shoes/lace-up-shoes?is=Chaussures de ville"
+  },
+  {
+    "name": "Chaussures à boucles",
+    "parentName": "Chaussures",
+    "url": "/mens/shop/shoes/monk-strap-shoes?is=Chaussures à boucles"
+  },
+  {
+    "name": "Derbies",
+    "parentName": "Chaussures",
+    "url": "/mens/shop/shoes/derby-shoes?is=Derbies"
+  },
+  {
+    "name": "Espadrilles",
+    "parentName": "Chaussures",
+    "url": "/mens/shop/shoes/espadrilles?is=Espadrilles"
+  },
+  {
+    "name": "Mocassins",
+    "parentName": "Chaussures",
+    "url": "/mens/shop/shoes/loafers?is=Mocassins"
+  },
+  {
+    "name": "Mocassins à picots",
+    "parentName": "Chaussures",
+    "url": "/mens/shop/shoes/driving-shoes?is=Mocassins à picots"
+  },
+  {
+    "name": "Richelieus",
+    "parentName": "Chaussures",
+    "url": "/mens/shop/shoes/brogues?is=Richelieus"
+  },
+  {
+    "name": "Sandales",
+    "parentName": "Chaussures",
+    "url": "/mens/shop/shoes/sandals?is=Sandales"
+  },
+  {
+    "name": "Bagages",
+    "parentName": "Sacs",
+    "url": "/mens/shop/bags/travel-bags?is=Bagages"
+  },
+  {
+    "name": "Cabas",
+    "parentName": "Sacs",
+    "url": "/mens/shop/bags/tote-bags?is=Cabas"
+  },
+  {
+    "name": "Pochettes",
+    "parentName": "Sacs",
+    "url": "/mens/shop/bags/hand-held-bags?is=Pochettes"
+  },
+  {
+    "name": "Sacoches",
+    "parentName": "Sacs",
+    "url": "/mens/shop/bags/messenger-bags?is=Sacoches"
+  },
+  {
+    "name": "Sacs à dos",
+    "parentName": "Sacs",
+    "url": "/mens/shop/bags/backpacks?is=Sacs à dos"
+  },
+  {
+    "name": "Serviettes",
+    "parentName": "Sacs",
+    "url": "/mens/shop/bags/briefcases?is=Serviettes"
+  },
+  {
+    "name": "Technologie",
+    "parentName": "Sacs",
+    "url": "/mens/shop/bags/technology?is=Technologie"
+  },
+  {
+    "name": "Blazers",
+    "parentName": "Vêtements",
+    "url": "/mens/shop/clothing/blazers?is=Blazers"
+  },
+  {
+    "name": "Chemises casual",
+    "parentName": "Vêtements",
+    "url": "/mens/shop/clothing/casual-shirts?is=Chemises casual"
+  },
+  {
+    "name": "Chemises habilllées",
+    "parentName": "Vêtements",
+    "url": "/mens/shop/clothing/formal-shirts?is=Chemises habilllées"
+  },
+  {
+    "name": "Costumes",
+    "parentName": "Vêtements",
+    "url": "/mens/shop/clothing/suits?is=Costumes"
+  },
+  {
+    "name": "Jeans",
+    "parentName": "Vêtements",
+    "url": "/mens/shop/clothing/jeans?is=Jeans"
+  },
+  {
+    "name": "Maille",
+    "parentName": "Vêtements",
+    "url": "/mens/shop/clothing/knitwear?is=Maille"
+  },
+  {
+    "name": "Manteaux et vestes",
+    "parentName": "Vêtements",
+    "url": "/mens/shop/clothing/coats-and-jackets?is=Manteaux et vestes"
+  },
+  {
+    "name": "Pantalons",
+    "parentName": "Vêtements",
+    "url": "/mens/shop/clothing/trousers?is=Pantalons"
+  },
+  {
+    "name": "Polos",
+    "parentName": "Vêtements",
+    "url": "/mens/shop/clothing/polo-shirts?is=Polos"
+  },
+  {
+    "name": "Shorts",
+    "parentName": "Vêtements",
+    "url": "/mens/shop/clothing/shorts?is=Shorts"
+  },
+  {
+    "name": "Sous-vêtements et Vêtements de nuit",
+    "parentName": "Vêtements",
+    "url": "/mens/shop/clothing/underwear-and-nightwear?is=Sous-vêtements et Vêtements de nuit"
+  },
+  {
+    "name": "Sportswear",
+    "parentName": "Vêtements",
+    "url": "/mens/shop/clothing/activewear?is=Sportswear"
+  },
+  {
+    "name": "Sweats",
+    "parentName": "Vêtements",
+    "url": "/mens/shop/clothing/sweats?is=Sweats"
+  },
+  {
+    "name": "T-shirts",
+    "parentName": "Vêtements",
+    "url": "/mens/shop/clothing/t-shirts?is=T-shirts"
+  },
+  {
+    "name": "Bagues",
+    "parentName": "Bijoux",
+    "url": "/mens/shop/accessories/jewellery/rings?is=Bagues"
+  },
+  {
+    "name": "Bracelets",
+    "parentName": "Bijoux",
+    "url": "/mens/shop/accessories/jewellery/bracelets?is=Bracelets"
+  },
+  {
+    "name": "Colliers",
+    "parentName": "Bijoux",
+    "url": "/mens/shop/accessories/jewellery/necklaces?is=Colliers"
+  },
+  {
+    "name": "Montres",
+    "parentName": "Bijoux",
+    "url": "/mens/shop/accessories/jewellery/watches?is=Montres"
+  },
+  {
+    "name": "Boutons de manchette",
+    "parentName": "Boutons de manchette, pinces et épingles",
+    "url": "/mens/shop/accessories/cufflinks,-pins-and-clips/cufflinks?is=Boutons de manchette"
+  },
+  {
+    "name": "Pinces et épingles à cravate",
+    "parentName": "Boutons de manchette, pinces et épingles",
+    "url": "/mens/shop/accessories/cufflinks,-pins-and-clips/tie-bars-and-clips?is=Pinces et épingles à cravate"
+  },
+  {
+    "name": "Ceintures en cuir",
+    "parentName": "Ceintures",
+    "url": "/mens/shop/accessories/belts/leather-belts?is=Ceintures en cuir"
+  },
+  {
+    "name": "Ceintures en toile",
+    "parentName": "Ceintures",
+    "url": "/mens/shop/accessories/belts/fabric-belts?is=Ceintures en toile"
+  },
+  {
+    "name": "Bonnets",
+    "parentName": "Chapeaux",
+    "url": "/mens/shop/accessories/hats/beanie-hats?is=Bonnets"
+  },
+  {
+    "name": "Borsalinos",
+    "parentName": "Chapeaux",
+    "url": "/mens/shop/accessories/hats/fedora-hats?is=Borsalinos"
+  },
+  {
+    "name": "Casquettes",
+    "parentName": "Chapeaux",
+    "url": "/mens/shop/accessories/hats/caps?is=Casquettes"
+  },
+  {
+    "name": "Chapeaux en feutre",
+    "parentName": "Chapeaux",
+    "url": "/mens/shop/accessories/hats/trilby-hats?is=Chapeaux en feutre"
+  },
+  {
+    "name": "Lunettes de ski",
+    "parentName": "Lunettes de soleil",
+    "url": "/mens/shop/accessories/sunglasses/ski-goggles?is=Lunettes de ski"
+  },
+  {
+    "name": "Lunettes de soleil aviateur",
+    "parentName": "Lunettes de soleil",
+    "url": "/mens/shop/accessories/sunglasses/aviator-sunglasses?is=Lunettes de soleil aviateur"
+  },
+  {
+    "name": "Lunettes de soleil carrées",
+    "parentName": "Lunettes de soleil",
+    "url": "/mens/shop/accessories/sunglasses/square-framed-sunglasses?is=Lunettes de soleil carrées"
+  },
+  {
+    "name": "Lunettes de soleil rondes",
+    "parentName": "Lunettes de soleil",
+    "url": "/mens/shop/accessories/sunglasses/round-framed-sunglasses?is=Lunettes de soleil rondes"
+  },
+  {
+    "name": "Lunettes de soleil à monture en D",
+    "parentName": "Lunettes de soleil",
+    "url": "/mens/shop/accessories/sunglasses/d-frame-sunglasses?is=Lunettes de soleil à monture en D"
+  },
+  {
+    "name": "Lunettes de vue",
+    "parentName": "Lunettes de soleil",
+    "url": "/mens/shop/accessories/sunglasses/optical-sunglasses?is=Lunettes de vue"
+  },
+  {
+    "name": "Pinces à billets",
+    "parentName": "Portefeuilles",
+    "url": "/mens/shop/accessories/wallets/money-clips?is=Pinces à billets"
+  },
+  {
+    "name": "Porte-cartes",
+    "parentName": "Portefeuilles",
+    "url": "/mens/shop/accessories/wallets/card-holders?is=Porte-cartes"
+  },
+  {
+    "name": "Portefeuilles",
+    "parentName": "Portefeuilles",
+    "url": "/mens/shop/accessories/wallets/wallets?is=Portefeuilles"
+  },
+  {
+    "name": "Étuis pour passeport",
+    "parentName": "Portefeuilles",
+    "url": "/mens/shop/accessories/wallets/passport-holders?is=Étuis pour passeport"
+  },
+  {
+    "name": "Coques pour iPhone",
+    "parentName": "Technologie",
+    "url": "/mens/shop/accessories/technology/iphone-cases?is=Coques pour iPhone"
+  },
+  {
+    "name": "Housses pour ordinateur portable",
+    "parentName": "Technologie",
+    "url": "/mens/shop/accessories/technology/laptop-cases?is=Housses pour ordinateur portable"
+  },
+  {
+    "name": "Étuis pour iPad",
+    "parentName": "Technologie",
+    "url": "/mens/shop/accessories/technology/ipad-cases?is=Étuis pour iPad"
+  },
+  {
+    "name": "Baskets basses",
+    "parentName": "Baskets",
+    "url": "/mens/shop/shoes/sneakers/low-top-sneakers?is=Baskets basses"
+  },
+  {
+    "name": "Baskets montantes",
+    "parentName": "Baskets",
+    "url": "/mens/shop/shoes/sneakers/high-top-sneakers?is=Baskets montantes"
+  },
+  {
+    "name": "Baskets sans lacets",
+    "parentName": "Baskets",
+    "url": "/mens/shop/shoes/sneakers/slip-on-sneakers?is=Baskets sans lacets"
+  },
+  {
+    "name": "Bottes biker",
+    "parentName": "Bottes",
+    "url": "/mens/shop/shoes/boots/biker-boots?is=Bottes biker"
+  },
+  {
+    "name": "Bottes chelsea",
+    "parentName": "Bottes",
+    "url": "/mens/shop/shoes/boots/chelsea-boots?is=Bottes chelsea"
+  },
+  {
+    "name": "Bottes en daim",
+    "parentName": "Bottes",
+    "url": "/mens/shop/shoes/boots/desert-boots?is=Bottes en daim"
+  },
+  {
+    "name": "Bagages",
+    "parentName": "Bagages",
+    "url": "/mens/shop/bags/travel-bags/luggage?is=Bagages"
+  },
+  {
+    "name": "Sacs de voyage",
+    "parentName": "Bagages",
+    "url": "/mens/shop/bags/travel-bags/holdall?is=Sacs de voyage"
+  },
+  {
+    "name": "Trousses de toilette",
+    "parentName": "Bagages",
+    "url": "/mens/shop/bags/travel-bags/wash-bags?is=Trousses de toilette"
+  },
+  {
+    "name": "Pochettes",
+    "parentName": "Pochettes",
+    "url": "/mens/shop/bags/hand-held-bags/pouches?is=Pochettes"
+  },
+  {
+    "name": "Porte-documents",
+    "parentName": "Pochettes",
+    "url": "/mens/shop/bags/hand-held-bags/document-holders?is=Porte-documents"
+  },
+  {
+    "name": "Étuis pour iPad",
+    "parentName": "Pochettes",
+    "url": "/mens/shop/bags/hand-held-bags/ipad-cases?is=Étuis pour iPad"
+  },
+  {
+    "name": "Coques pour iPhone",
+    "parentName": "Technologie",
+    "url": "/mens/shop/bags/technology/iphone-cases?is=Coques pour iPhone"
+  },
+  {
+    "name": "Housses pour ordinateur portable",
+    "parentName": "Technologie",
+    "url": "/mens/shop/bags/technology/laptop-cases?is=Housses pour ordinateur portable"
+  },
+  {
+    "name": "Étuis pour iPad",
+    "parentName": "Technologie",
+    "url": "/mens/shop/bags/technology/ipad-cases?is=Étuis pour iPad"
+  },
+  {
+    "name": "Blazers casual",
+    "parentName": "Blazers",
+    "url": "/mens/shop/clothing/blazers/casual-blazers?is=Blazers casual"
+  },
+  {
+    "name": "Blazers habillés",
+    "parentName": "Blazers",
+    "url": "/mens/shop/clothing/blazers/formal-blazers?is=Blazers habillés"
+  },
+  {
+    "name": "Gilets",
+    "parentName": "Blazers",
+    "url": "/mens/shop/clothing/blazers/waistcoats?is=Gilets"
+  },
+  {
+    "name": "Chemises cintrées",
+    "parentName": "Chemises casual",
+    "url": "/mens/shop/clothing/casual-shirts/slim-fit-shirts?is=Chemises cintrées"
+  },
+  {
+    "name": "Chemises classiques",
+    "parentName": "Chemises casual",
+    "url": "/mens/shop/clothing/casual-shirts/plain-shirts?is=Chemises classiques"
+  },
+  {
+    "name": "Chemises imprimées",
+    "parentName": "Chemises casual",
+    "url": "/mens/shop/clothing/casual-shirts/printed-shirts?is=Chemises imprimées"
+  },
+  {
+    "name": "Chemises à manches courtes",
+    "parentName": "Chemises casual",
+    "url": "/mens/shop/clothing/casual-shirts/short-sleeved-shirts?is=Chemises à manches courtes"
+  },
+  {
+    "name": "Chemises à manches longues",
+    "parentName": "Chemises casual",
+    "url": "/mens/shop/clothing/casual-shirts/long-sleeved-shirts?is=Chemises à manches longues"
+  },
+  {
+    "name": "Chemises ajustées",
+    "parentName": "Chemises habilllées",
+    "url": "/mens/shop/clothing/formal-shirts/slim-fit-shirts?is=Chemises ajustées"
+  },
+  {
+    "name": "Chemises cravate",
+    "parentName": "Chemises habilllées",
+    "url": "/mens/shop/clothing/formal-shirts/tie-shirts?is=Chemises cravate"
+  },
+  {
+    "name": "Chemises de smoking",
+    "parentName": "Chemises habilllées",
+    "url": "/mens/shop/clothing/formal-shirts/tuxedo-shirts?is=Chemises de smoking"
+  },
+  {
+    "name": "Chemises mousquetaire",
+    "parentName": "Chemises habilllées",
+    "url": "/mens/shop/clothing/formal-shirts/double-cuff-shirts?is=Chemises mousquetaire"
+  },
+  {
+    "name": "Costumes casual",
+    "parentName": "Costumes",
+    "url": "/mens/shop/clothing/suits/casual-suits?is=Costumes casual"
+  },
+  {
+    "name": "Costumes habillés",
+    "parentName": "Costumes",
+    "url": "/mens/shop/clothing/suits/formal-suits?is=Costumes habillés"
+  },
+  {
+    "name": "Maillots de bain",
+    "parentName": "Costumes",
+    "url": "/mens/shop/clothing/suits/swimwear?is=Maillots de bain"
+  },
+  {
+    "name": "Smokings",
+    "parentName": "Costumes",
+    "url": "/mens/shop/clothing/suits/tuxedos?is=Smokings"
+  },
+  {
+    "name": "Jeans droits",
+    "parentName": "Jeans",
+    "url": "/mens/shop/clothing/jeans/straight-jeans?is=Jeans droits"
+  },
+  {
+    "name": "Jeans skinny",
+    "parentName": "Jeans",
+    "url": "/mens/shop/clothing/jeans/skinny-jeans?is=Jeans skinny"
+  },
+  {
+    "name": "Jeans slim",
+    "parentName": "Jeans",
+    "url": "/mens/shop/clothing/jeans/silm-fit-jeans?is=Jeans slim"
+  },
+  {
+    "name": "Cachemire",
+    "parentName": "Maille",
+    "url": "/mens/shop/clothing/knitwear/cashmere-knitwear?is=Cachemire"
+  },
+  {
+    "name": "Cardigans",
+    "parentName": "Maille",
+    "url": "/mens/shop/clothing/knitwear/cardigans?is=Cardigans"
+  },
+  {
+    "name": "Cols roulés",
+    "parentName": "Maille",
+    "url": "/mens/shop/clothing/knitwear/roll-neck-sweaters?is=Cols roulés"
+  },
+  {
+    "name": "Polos en maille",
+    "parentName": "Maille",
+    "url": "/mens/shop/clothing/knitwear/knitted-polo-shirts?is=Polos en maille"
+  },
+  {
+    "name": "Pulls",
+    "parentName": "Maille",
+    "url": "/mens/shop/clothing/knitwear/sweaters?is=Pulls"
+  },
+  {
+    "name": "Pulls col en V",
+    "parentName": "Maille",
+    "url": "/mens/shop/clothing/knitwear/v-neck-sweaters?is=Pulls col en V"
+  },
+  {
+    "name": "Pulls ras du cou",
+    "parentName": "Maille",
+    "url": "/mens/shop/clothing/knitwear/crew-neck-sweaters?is=Pulls ras du cou"
+  },
+  {
+    "name": "Pulls zippés",
+    "parentName": "Maille",
+    "url": "/mens/shop/clothing/knitwear/zip-up-sweaters?is=Pulls zippés"
+  },
+  {
+    "name": "Bombers",
+    "parentName": "Manteaux et vestes",
+    "url": "/mens/shop/clothing/coats-and-jackets/bomber-jackets?is=Bombers"
+  },
+  {
+    "name": "Cabans",
+    "parentName": "Manteaux et vestes",
+    "url": "/mens/shop/clothing/coats-and-jackets/pea-coats?is=Cabans"
+  },
+  {
+    "name": "Pardessus",
+    "parentName": "Manteaux et vestes",
+    "url": "/mens/shop/clothing/coats-and-jackets/overcoats?is=Pardessus"
+  },
+  {
+    "name": "Parkas",
+    "parentName": "Manteaux et vestes",
+    "url": "/mens/shop/clothing/coats-and-jackets/parkas?is=Parkas"
+  },
+  {
+    "name": "Trench-coats et imperméables",
+    "parentName": "Manteaux et vestes",
+    "url": "/mens/shop/clothing/coats-and-jackets/trench-coats-and-macs?is=Trench-coats et imperméables"
+  },
+  {
+    "name": "Vestes casual",
+    "parentName": "Manteaux et vestes",
+    "url": "/mens/shop/clothing/coats-and-jackets/casual-jackets?is=Vestes casual"
+  },
+  {
+    "name": "Vestes de sport",
+    "parentName": "Manteaux et vestes",
+    "url": "/mens/shop/clothing/coats-and-jackets/performance-jackets?is=Vestes de sport"
+  },
+  {
+    "name": "Vestes en cuir",
+    "parentName": "Manteaux et vestes",
+    "url": "/mens/shop/clothing/coats-and-jackets/leather-jackets?is=Vestes en cuir"
+  },
+  {
+    "name": "Vestes matelassées",
+    "parentName": "Manteaux et vestes",
+    "url": "/mens/shop/clothing/coats-and-jackets/down-jackets?is=Vestes matelassées"
+  },
+  {
+    "name": "Vestes militaires",
+    "parentName": "Manteaux et vestes",
+    "url": "/mens/shop/clothing/coats-and-jackets/field-jackets?is=Vestes militaires"
+  },
+  {
+    "name": "Vestes sans manches",
+    "parentName": "Manteaux et vestes",
+    "url": "/mens/shop/clothing/coats-and-jackets/gilets?is=Vestes sans manches"
+  },
+  {
+    "name": "Chinos",
+    "parentName": "Pantalons",
+    "url": "/mens/shop/clothing/trousers/chinos?is=Chinos"
+  },
+  {
+    "name": "Pantalons casual",
+    "parentName": "Pantalons",
+    "url": "/mens/shop/clothing/trousers/casual-trousers?is=Pantalons casual"
+  },
+  {
+    "name": "Pantalons coupe slim",
+    "parentName": "Pantalons",
+    "url": "/mens/shop/clothing/trousers/slim-fit-trousers?is=Pantalons coupe slim"
+  },
+  {
+    "name": "Pantalons de jogging",
+    "parentName": "Pantalons",
+    "url": "/mens/shop/clothing/trousers/track-pants?is=Pantalons de jogging"
+  },
+  {
+    "name": "Pantalons habillés",
+    "parentName": "Pantalons",
+    "url": "/mens/shop/clothing/trousers/tailored-trousers?is=Pantalons habillés"
+  },
+  {
+    "name": "Shorts casual",
+    "parentName": "Shorts",
+    "url": "/mens/shop/clothing/shorts/casual-shorts?is=Shorts casual"
+  },
+  {
+    "name": "Shorts de bain",
+    "parentName": "Shorts",
+    "url": "/mens/shop/clothing/shorts/swim-shorts?is=Shorts de bain"
+  },
+  {
+    "name": "Shorts habillés",
+    "parentName": "Shorts",
+    "url": "/mens/shop/clothing/shorts/tailored-shorts?is=Shorts habillés"
+  },
+  {
+    "name": "Caleçons et boxers",
+    "parentName": "Sous-vêtements et Vêtements de nuit",
+    "url": "/mens/shop/clothing/underwear-and-nightwear/boxer-shorts?is=Caleçons et boxers"
+  },
+  {
+    "name": "Peignoirs",
+    "parentName": "Sous-vêtements et Vêtements de nuit",
+    "url": "/mens/shop/clothing/underwear-and-nightwear/robes?is=Peignoirs"
+  },
+  {
+    "name": "Pyjamas",
+    "parentName": "Sous-vêtements et Vêtements de nuit",
+    "url": "/mens/shop/clothing/underwear-and-nightwear/sleepwear?is=Pyjamas"
+  },
+  {
+    "name": "Slips",
+    "parentName": "Sous-vêtements et Vêtements de nuit",
+    "url": "/mens/shop/clothing/underwear-and-nightwear/briefs?is=Slips"
+  },
+  {
+    "name": "Hauts de sport",
+    "parentName": "Sportswear",
+    "url": "/mens/shop/clothing/activewear/activewear-tops?is=Hauts de sport"
+  },
+  {
+    "name": "Pantalons de sport",
+    "parentName": "Sportswear",
+    "url": "/mens/shop/clothing/activewear/activewear-trousers?is=Pantalons de sport"
+  },
+  {
+    "name": "Vestes de sport",
+    "parentName": "Sportswear",
+    "url": "/mens/shop/clothing/activewear/activewear-jackets?is=Vestes de sport"
+  },
+  {
+    "name": "Pantalons de jogging",
+    "parentName": "Sweats",
+    "url": "/mens/shop/clothing/sweats/track-pants?is=Pantalons de jogging"
+  },
+  {
+    "name": "Sweat-shirts",
+    "parentName": "Sweats",
+    "url": "/mens/shop/clothing/sweats/sweatshirts?is=Sweat-shirts"
+  },
+  {
+    "name": "Sweat-shirts zippés",
+    "parentName": "Sweats",
+    "url": "/mens/shop/clothing/sweats/zip-up-sweatshirts?is=Sweat-shirts zippés"
+  },
+  {
+    "name": "Sweat-shirts à capuche",
+    "parentName": "Sweats",
+    "url": "/mens/shop/clothing/sweats/hooded-sweatshirts?is=Sweat-shirts à capuche"
+  }
+]

@@ -1,0 +1,1077 @@
+[
+  {
+    "name": "Accessoires",
+    "parentName": "",
+    "url": "/womens/shop/accessories?is=Accessoires"
+  },
+  {
+    "name": "Chaussures",
+    "parentName": "",
+    "url": "/womens/shop/shoes?is=Chaussures"
+  },
+  {
+    "name": "Sacs",
+    "parentName": "",
+    "url": "/womens/shop/bags?is=Sacs"
+  },
+  {
+    "name": "Vêtements",
+    "parentName": "",
+    "url": "/womens/shop/clothing?is=Vêtements"
+  },
+  {
+    "name": "Accessoires de voyage",
+    "parentName": "Accessoires",
+    "url": "/womens/shop/accessories/travel-accessories?is=Accessoires de voyage"
+  },
+  {
+    "name": "Bijoux",
+    "parentName": "Accessoires",
+    "url": "/womens/shop/accessories/jewellery?is=Bijoux"
+  },
+  {
+    "name": "Ceintures",
+    "parentName": "Accessoires",
+    "url": "/womens/shop/accessories/belts?is=Ceintures"
+  },
+  {
+    "name": "Chapeaux",
+    "parentName": "Accessoires",
+    "url": "/womens/shop/accessories/hats?is=Chapeaux"
+  },
+  {
+    "name": "Gants",
+    "parentName": "Accessoires",
+    "url": "/womens/shop/accessories/gloves?is=Gants"
+  },
+  {
+    "name": "Joaillerie",
+    "parentName": "Accessoires",
+    "url": "/womens/shop/accessories/fine-jewellery?is=Joaillerie"
+  },
+  {
+    "name": "Lunettes de soleil",
+    "parentName": "Accessoires",
+    "url": "/womens/shop/accessories/sunglasses?is=Lunettes de soleil"
+  },
+  {
+    "name": "Maison",
+    "parentName": "Accessoires",
+    "url": "/womens/shop/accessories/home?is=Maison"
+  },
+  {
+    "name": "Montres",
+    "parentName": "Accessoires",
+    "url": "/womens/shop/accessories/watches?is=Montres"
+  },
+  {
+    "name": "Parapluies",
+    "parentName": "Accessoires",
+    "url": "/womens/shop/accessories/umbrellas?is=Parapluies"
+  },
+  {
+    "name": "Porte-clés",
+    "parentName": "Accessoires",
+    "url": "/womens/shop/accessories/keyrings?is=Porte-clés"
+  },
+  {
+    "name": "Portefeuilles",
+    "parentName": "Accessoires",
+    "url": "/womens/shop/accessories/wallets?is=Portefeuilles"
+  },
+  {
+    "name": "Technologie",
+    "parentName": "Accessoires",
+    "url": "/womens/shop/accessories/technology?is=Technologie"
+  },
+  {
+    "name": "Trousses beauté",
+    "parentName": "Accessoires",
+    "url": "/womens/shop/accessories/cosmetic-cases?is=Trousses beauté"
+  },
+  {
+    "name": "Écharpes",
+    "parentName": "Accessoires",
+    "url": "/womens/shop/accessories/scarves?is=Écharpes"
+  },
+  {
+    "name": "Baskets",
+    "parentName": "Chaussures",
+    "url": "/womens/shop/shoes/sneakers?is=Baskets"
+  },
+  {
+    "name": "Bottes et bottines",
+    "parentName": "Chaussures",
+    "url": "/womens/shop/shoes/boots?is=Bottes et bottines"
+  },
+  {
+    "name": "Chaussures plates",
+    "parentName": "Chaussures",
+    "url": "/womens/shop/shoes/flats?is=Chaussures plates"
+  },
+  {
+    "name": "Chaussures à talons",
+    "parentName": "Chaussures",
+    "url": "/womens/shop/shoes/heels?is=Chaussures à talons"
+  },
+  {
+    "name": "Bagages",
+    "parentName": "Sacs",
+    "url": "/womens/shop/bags/travel-bags?is=Bagages"
+  },
+  {
+    "name": "Cabas et sacs à main",
+    "parentName": "Sacs",
+    "url": "/womens/shop/bags/tote-bags?is=Cabas et sacs à main"
+  },
+  {
+    "name": "Pochettes",
+    "parentName": "Sacs",
+    "url": "/womens/shop/bags/clutch-bags?is=Pochettes"
+  },
+  {
+    "name": "Sacs bandoulière",
+    "parentName": "Sacs",
+    "url": "/womens/shop/bags/cross-body-bags?is=Sacs bandoulière"
+  },
+  {
+    "name": "Sacs de plage",
+    "parentName": "Sacs",
+    "url": "/womens/shop/bags/beach-bags?is=Sacs de plage"
+  },
+  {
+    "name": "Sacs portés épaule",
+    "parentName": "Sacs",
+    "url": "/womens/shop/bags/shoulder-bags?is=Sacs portés épaule"
+  },
+  {
+    "name": "Sacs à dos",
+    "parentName": "Sacs",
+    "url": "/womens/shop/bags/backpacks?is=Sacs à dos"
+  },
+  {
+    "name": "Combinaisons",
+    "parentName": "Vêtements",
+    "url": "/womens/shop/clothing/all-in-ones?is=Combinaisons"
+  },
+  {
+    "name": "Hauts",
+    "parentName": "Vêtements",
+    "url": "/womens/shop/clothing/tops?is=Hauts"
+  },
+  {
+    "name": "Jeans",
+    "parentName": "Vêtements",
+    "url": "/womens/shop/clothing/jeans?is=Jeans"
+  },
+  {
+    "name": "Jupes",
+    "parentName": "Vêtements",
+    "url": "/womens/shop/clothing/skirts?is=Jupes"
+  },
+  {
+    "name": "Lingerie et vêtements de nuit",
+    "parentName": "Vêtements",
+    "url": "/womens/shop/clothing/lingerie?is=Lingerie et vêtements de nuit"
+  },
+  {
+    "name": "Maille",
+    "parentName": "Vêtements",
+    "url": "/womens/shop/clothing/knitwear?is=Maille"
+  },
+  {
+    "name": "Manteaux",
+    "parentName": "Vêtements",
+    "url": "/womens/shop/clothing/coats?is=Manteaux"
+  },
+  {
+    "name": "Pantalons",
+    "parentName": "Vêtements",
+    "url": "/womens/shop/clothing/trousers?is=Pantalons"
+  },
+  {
+    "name": "Robes",
+    "parentName": "Vêtements",
+    "url": "/womens/shop/clothing/dresses?is=Robes"
+  },
+  {
+    "name": "Shorts",
+    "parentName": "Vêtements",
+    "url": "/womens/shop/clothing/shorts?is=Shorts"
+  },
+  {
+    "name": "Sportswear",
+    "parentName": "Vêtements",
+    "url": "/womens/shop/clothing/activewear?is=Sportswear"
+  },
+  {
+    "name": "Tailleurs",
+    "parentName": "Vêtements",
+    "url": "/womens/shop/clothing/suits?is=Tailleurs"
+  },
+  {
+    "name": "Vestes",
+    "parentName": "Vêtements",
+    "url": "/womens/shop/clothing/jackets?is=Vestes"
+  },
+  {
+    "name": "Vêtements de plage",
+    "parentName": "Vêtements",
+    "url": "/womens/shop/clothing/beachwear?is=Vêtements de plage"
+  },
+  {
+    "name": "Bagues mode",
+    "parentName": "Bijoux",
+    "url": "/womens/shop/accessories/jewellery/rings?is=Bagues mode"
+  },
+  {
+    "name": "Bandeaux mode",
+    "parentName": "Bijoux",
+    "url": "/womens/shop/accessories/jewellery/headbands?is=Bandeaux mode"
+  },
+  {
+    "name": "Boucles d'oreilles mode",
+    "parentName": "Bijoux",
+    "url": "/womens/shop/accessories/jewellery/earrings?is=Boucles d'oreilles mode"
+  },
+  {
+    "name": "Bracelets mode",
+    "parentName": "Bijoux",
+    "url": "/womens/shop/accessories/jewellery/bracelets?is=Bracelets mode"
+  },
+  {
+    "name": "Bracelets mode",
+    "parentName": "Bijoux",
+    "url": "/womens/shop/accessories/jewellery/handpieces?is=Bracelets mode"
+  },
+  {
+    "name": "Broches mode",
+    "parentName": "Bijoux",
+    "url": "/womens/shop/accessories/jewellery/brooches?is=Broches mode"
+  },
+  {
+    "name": "Colliers mode",
+    "parentName": "Bijoux",
+    "url": "/womens/shop/accessories/jewellery/necklaces?is=Colliers mode"
+  },
+  {
+    "name": "Ear cuffs mode",
+    "parentName": "Bijoux",
+    "url": "/womens/shop/accessories/jewellery/earcuffs?is=Ear cuffs mode"
+  },
+  {
+    "name": "Manchettes mode",
+    "parentName": "Bijoux",
+    "url": "/womens/shop/accessories/jewellery/cuffs?is=Manchettes mode"
+  },
+  {
+    "name": "Montres",
+    "parentName": "Bijoux",
+    "url": "/womens/shop/accessories/jewellery/watches?is=Montres"
+  },
+  {
+    "name": "Accessoires cheveux",
+    "parentName": "Chapeaux",
+    "url": "/womens/shop/accessories/hats/hair-accessories?is=Accessoires cheveux"
+  },
+  {
+    "name": "Bonnets",
+    "parentName": "Chapeaux",
+    "url": "/womens/shop/accessories/hats/beanie-hats?is=Bonnets"
+  },
+  {
+    "name": "Casquettes",
+    "parentName": "Chapeaux",
+    "url": "/womens/shop/accessories/hats/caps?is=Casquettes"
+  },
+  {
+    "name": "Chapeaux de paille",
+    "parentName": "Chapeaux",
+    "url": "/womens/shop/accessories/hats/sunhats?is=Chapeaux de paille"
+  },
+  {
+    "name": "Chapeaux en feutre",
+    "parentName": "Chapeaux",
+    "url": "/womens/shop/accessories/hats/trilby-hats?is=Chapeaux en feutre"
+  },
+  {
+    "name": "Chapeaux à bords larges",
+    "parentName": "Chapeaux",
+    "url": "/womens/shop/accessories/hats/wide-brim-hats?is=Chapeaux à bords larges"
+  },
+  {
+    "name": "Fedoras",
+    "parentName": "Chapeaux",
+    "url": "/womens/shop/accessories/hats/fedora-hats?is=Fedoras"
+  },
+  {
+    "name": "Gants de ski",
+    "parentName": "Gants",
+    "url": "/womens/shop/accessories/gloves/ski-gloves?is=Gants de ski"
+  },
+  {
+    "name": "Gants en cuir",
+    "parentName": "Gants",
+    "url": "/womens/shop/accessories/gloves/leather-gloves?is=Gants en cuir"
+  },
+  {
+    "name": "Gants en maille",
+    "parentName": "Gants",
+    "url": "/womens/shop/accessories/gloves/knitted-gloves?is=Gants en maille"
+  },
+  {
+    "name": "Gants longs",
+    "parentName": "Gants",
+    "url": "/womens/shop/accessories/gloves/long-sleeved-gloves?is=Gants longs"
+  },
+  {
+    "name": "Manchettes",
+    "parentName": "Gants",
+    "url": "/womens/shop/accessories/gloves/glove-cuffs?is=Manchettes"
+  },
+  {
+    "name": "Bagues",
+    "parentName": "Joaillerie",
+    "url": "/womens/shop/accessories/fine-jewellery/rings?is=Bagues"
+  },
+  {
+    "name": "Bandeaux",
+    "parentName": "Joaillerie",
+    "url": "/womens/shop/accessories/fine-jewellery/headbands?is=Bandeaux"
+  },
+  {
+    "name": "Bijoux d'oreille",
+    "parentName": "Joaillerie",
+    "url": "/womens/shop/accessories/fine-jewellery/earcuffs?is=Bijoux d'oreille"
+  },
+  {
+    "name": "Boucles d'oreilles",
+    "parentName": "Joaillerie",
+    "url": "/womens/shop/accessories/fine-jewellery/earrings?is=Boucles d'oreilles"
+  },
+  {
+    "name": "Bracelets",
+    "parentName": "Joaillerie",
+    "url": "/womens/shop/accessories/fine-jewellery/bracelets?is=Bracelets"
+  },
+  {
+    "name": "Colliers",
+    "parentName": "Joaillerie",
+    "url": "/womens/shop/accessories/fine-jewellery/necklaces?is=Colliers"
+  },
+  {
+    "name": "Lunettes de soleil aviateur",
+    "parentName": "Lunettes de soleil",
+    "url": "/womens/shop/accessories/sunglasses/aviator-sunglasses?is=Lunettes de soleil aviateur"
+  },
+  {
+    "name": "Lunettes de soleil carrées",
+    "parentName": "Lunettes de soleil",
+    "url": "/womens/shop/accessories/sunglasses/square-frame-sunglasses?is=Lunettes de soleil carrées"
+  },
+  {
+    "name": "Lunettes de soleil papillon",
+    "parentName": "Lunettes de soleil",
+    "url": "/womens/shop/accessories/sunglasses/cat-eye-sunglasses?is=Lunettes de soleil papillon"
+  },
+  {
+    "name": "Lunettes de soleil rondes",
+    "parentName": "Lunettes de soleil",
+    "url": "/womens/shop/accessories/sunglasses/round-frame-sunglasses?is=Lunettes de soleil rondes"
+  },
+  {
+    "name": "Lunettes de soleil à monture en D",
+    "parentName": "Lunettes de soleil",
+    "url": "/womens/shop/accessories/sunglasses/d-frame-sunglasses?is=Lunettes de soleil à monture en D"
+  },
+  {
+    "name": "Porte-cartes",
+    "parentName": "Portefeuilles",
+    "url": "/womens/shop/accessories/wallets/card-holders?is=Porte-cartes"
+  },
+  {
+    "name": "Portefeuilles",
+    "parentName": "Portefeuilles",
+    "url": "/womens/shop/accessories/wallets/wallets?is=Portefeuilles"
+  },
+  {
+    "name": "Casques audio",
+    "parentName": "Technologie",
+    "url": "/womens/shop/accessories/technology/headphones?is=Casques audio"
+  },
+  {
+    "name": "Coques pour iPhone",
+    "parentName": "Technologie",
+    "url": "/womens/shop/accessories/technology/iphone-cases?is=Coques pour iPhone"
+  },
+  {
+    "name": "Housses pour ordinateur portable",
+    "parentName": "Technologie",
+    "url": "/womens/shop/accessories/technology/laptop-cases?is=Housses pour ordinateur portable"
+  },
+  {
+    "name": "Étuis pour iPad",
+    "parentName": "Technologie",
+    "url": "/womens/shop/accessories/technology/ipad-cases?is=Étuis pour iPad"
+  },
+  {
+    "name": "Faux cols",
+    "parentName": "Écharpes",
+    "url": "/womens/shop/accessories/scarves/collars?is=Faux cols"
+  },
+  {
+    "name": "Papeterie",
+    "parentName": "Écharpes",
+    "url": "/womens/shop/accessories/scarves/stationery?is=Papeterie"
+  },
+  {
+    "name": "Écharpes en cachemire",
+    "parentName": "Écharpes",
+    "url": "/womens/shop/accessories/scarves/cashmere-scarves?is=Écharpes en cachemire"
+  },
+  {
+    "name": "Écharpes en fourrure",
+    "parentName": "Écharpes",
+    "url": "/womens/shop/accessories/scarves/fur-scarves?is=Écharpes en fourrure"
+  },
+  {
+    "name": "Écharpes en soie",
+    "parentName": "Écharpes",
+    "url": "/womens/shop/accessories/scarves/silk-scarves?is=Écharpes en soie"
+  },
+  {
+    "name": "Baskets basses",
+    "parentName": "Baskets",
+    "url": "/womens/shop/shoes/sneakers/low-top-sneakers?is=Baskets basses"
+  },
+  {
+    "name": "Baskets compensées",
+    "parentName": "Baskets",
+    "url": "/womens/shop/shoes/sneakers/wedge-sneakers?is=Baskets compensées"
+  },
+  {
+    "name": "Baskets montantes",
+    "parentName": "Baskets",
+    "url": "/womens/shop/shoes/sneakers/high-top-sneakers?is=Baskets montantes"
+  },
+  {
+    "name": "Baskets sans lacets",
+    "parentName": "Baskets",
+    "url": "/womens/shop/shoes/sneakers/slip-on-sneakers?is=Baskets sans lacets"
+  },
+  {
+    "name": "Après-ski et bottes en shearling",
+    "parentName": "Bottes et bottines",
+    "url": "/womens/shop/shoes/boots/après-ski-and-shearling-boots?is=Après-ski et bottes en shearling"
+  },
+  {
+    "name": "Bottes de pluie",
+    "parentName": "Bottes et bottines",
+    "url": "/womens/shop/shoes/boots/wellington-boots?is=Bottes de pluie"
+  },
+  {
+    "name": "Bottes genou",
+    "parentName": "Bottes et bottines",
+    "url": "/womens/shop/shoes/boots/knee-high-boots?is=Bottes genou"
+  },
+  {
+    "name": "Bottes plates",
+    "parentName": "Bottes et bottines",
+    "url": "/womens/shop/shoes/boots/flat-boots?is=Bottes plates"
+  },
+  {
+    "name": "Bottes à talons hauts",
+    "parentName": "Bottes et bottines",
+    "url": "/womens/shop/shoes/boots/heeled-boots?is=Bottes à talons hauts"
+  },
+  {
+    "name": "Bottines",
+    "parentName": "Bottes et bottines",
+    "url": "/womens/shop/shoes/boots/ankle-boots?is=Bottines"
+  },
+  {
+    "name": "Cuissardes",
+    "parentName": "Bottes et bottines",
+    "url": "/womens/shop/shoes/boots/over-the-knee-boots?is=Cuissardes"
+  },
+  {
+    "name": "Ballerines",
+    "parentName": "Chaussures plates",
+    "url": "/womens/shop/shoes/flats/ballet-flats?is=Ballerines"
+  },
+  {
+    "name": "Chaussons de ville",
+    "parentName": "Chaussures plates",
+    "url": "/womens/shop/shoes/flats/slippers?is=Chaussons de ville"
+  },
+  {
+    "name": "Espadrilles",
+    "parentName": "Chaussures plates",
+    "url": "/womens/shop/shoes/flats/espadrilles?is=Espadrilles"
+  },
+  {
+    "name": "Mocassins",
+    "parentName": "Chaussures plates",
+    "url": "/womens/shop/shoes/flats/loafers?is=Mocassins"
+  },
+  {
+    "name": "Sandales plates",
+    "parentName": "Chaussures plates",
+    "url": "/womens/shop/shoes/flats/flat-sandals?is=Sandales plates"
+  },
+  {
+    "name": "Compensées",
+    "parentName": "Chaussures à talons",
+    "url": "/womens/shop/shoes/heels/wedges?is=Compensées"
+  },
+  {
+    "name": "Escarpins",
+    "parentName": "Chaussures à talons",
+    "url": "/womens/shop/shoes/heels/pumps?is=Escarpins"
+  },
+  {
+    "name": "Sandales",
+    "parentName": "Chaussures à talons",
+    "url": "/womens/shop/shoes/heels/sandals?is=Sandales"
+  },
+  {
+    "name": "Talons hauts",
+    "parentName": "Chaussures à talons",
+    "url": "/womens/shop/shoes/heels/high-heels?is=Talons hauts"
+  },
+  {
+    "name": "Talons mi-hauts",
+    "parentName": "Chaussures à talons",
+    "url": "/womens/shop/shoes/heels/mid-heels?is=Talons mi-hauts"
+  },
+  {
+    "name": "Combi-shorts",
+    "parentName": "Combinaisons",
+    "url": "/womens/shop/clothing/all-in-ones/playsuits?is=Combi-shorts"
+  },
+  {
+    "name": "Combinaisons",
+    "parentName": "Combinaisons",
+    "url": "/womens/shop/clothing/all-in-ones/jumpsuits?is=Combinaisons"
+  },
+  {
+    "name": "Salopettes",
+    "parentName": "Combinaisons",
+    "url": "/womens/shop/clothing/all-in-ones/dungarees?is=Salopettes"
+  },
+  {
+    "name": "Blouses",
+    "parentName": "Hauts",
+    "url": "/womens/shop/clothing/tops/blouses?is=Blouses"
+  },
+  {
+    "name": "Chemises",
+    "parentName": "Hauts",
+    "url": "/womens/shop/clothing/tops/shirts?is=Chemises"
+  },
+  {
+    "name": "Débardeurs et caracos",
+    "parentName": "Hauts",
+    "url": "/womens/shop/clothing/tops/tanks-and-camis?is=Débardeurs et caracos"
+  },
+  {
+    "name": "Hauts de soirée",
+    "parentName": "Hauts",
+    "url": "/womens/shop/clothing/tops/evening-tops?is=Hauts de soirée"
+  },
+  {
+    "name": "Hauts imprimés",
+    "parentName": "Hauts",
+    "url": "/womens/shop/clothing/tops/printed-tops?is=Hauts imprimés"
+  },
+  {
+    "name": "Hauts sans manches",
+    "parentName": "Hauts",
+    "url": "/womens/shop/clothing/tops/sleeveless-tops?is=Hauts sans manches"
+  },
+  {
+    "name": "Hauts à manches courtes",
+    "parentName": "Hauts",
+    "url": "/womens/shop/clothing/tops/short-sleeved-tops?is=Hauts à manches courtes"
+  },
+  {
+    "name": "Hauts à manches longues",
+    "parentName": "Hauts",
+    "url": "/womens/shop/clothing/tops/long-sleeved-tops?is=Hauts à manches longues"
+  },
+  {
+    "name": "Sweat-shirts",
+    "parentName": "Hauts",
+    "url": "/womens/shop/clothing/tops/sweatshirts?is=Sweat-shirts"
+  },
+  {
+    "name": "T-shirts",
+    "parentName": "Hauts",
+    "url": "/womens/shop/clothing/tops/t-shirts?is=T-shirts"
+  },
+  {
+    "name": "Jeans boyfriend",
+    "parentName": "Jeans",
+    "url": "/womens/shop/clothing/jeans/boyfriend-jeans?is=Jeans boyfriend"
+  },
+  {
+    "name": "Jeans droits",
+    "parentName": "Jeans",
+    "url": "/womens/shop/clothing/jeans/straight-leg-jeans?is=Jeans droits"
+  },
+  {
+    "name": "Jeans raccourcis",
+    "parentName": "Jeans",
+    "url": "/womens/shop/clothing/jeans/cropped-jeans?is=Jeans raccourcis"
+  },
+  {
+    "name": "Jeans skinny",
+    "parentName": "Jeans",
+    "url": "/womens/shop/clothing/jeans/skinny-leg-jeans?is=Jeans skinny"
+  },
+  {
+    "name": "Jeans taille basse",
+    "parentName": "Jeans",
+    "url": "/womens/shop/clothing/jeans/low-rise-jeans?is=Jeans taille basse"
+  },
+  {
+    "name": "Jeans taille haute",
+    "parentName": "Jeans",
+    "url": "/womens/shop/clothing/jeans/high-rise-jeans?is=Jeans taille haute"
+  },
+  {
+    "name": "Jeans taille mi-haute",
+    "parentName": "Jeans",
+    "url": "/womens/shop/clothing/jeans/mid-rise-jeans?is=Jeans taille mi-haute"
+  },
+  {
+    "name": "Jeans évasés",
+    "parentName": "Jeans",
+    "url": "/womens/shop/clothing/jeans/flared-jeans?is=Jeans évasés"
+  },
+  {
+    "name": "Jupes crayon",
+    "parentName": "Jupes",
+    "url": "/womens/shop/clothing/skirts/pencil-skirts?is=Jupes crayon"
+  },
+  {
+    "name": "Jupes en cuir",
+    "parentName": "Jupes",
+    "url": "/womens/shop/clothing/skirts/leather-skirts?is=Jupes en cuir"
+  },
+  {
+    "name": "Jupes longues",
+    "parentName": "Jupes",
+    "url": "/womens/shop/clothing/skirts/maxi-skirts?is=Jupes longues"
+  },
+  {
+    "name": "Jupes mi-longues",
+    "parentName": "Jupes",
+    "url": "/womens/shop/clothing/skirts/knee-length-skirts?is=Jupes mi-longues"
+  },
+  {
+    "name": "Jupes midi",
+    "parentName": "Jupes",
+    "url": "/womens/shop/clothing/skirts/midi-skirts?is=Jupes midi"
+  },
+  {
+    "name": "Mini-jupes",
+    "parentName": "Jupes",
+    "url": "/womens/shop/clothing/skirts/mini-skirts?is=Mini-jupes"
+  },
+  {
+    "name": "Chaussettes",
+    "parentName": "Lingerie et vêtements de nuit",
+    "url": "/womens/shop/clothing/lingerie/socks?is=Chaussettes"
+  },
+  {
+    "name": "Collants et bas",
+    "parentName": "Lingerie et vêtements de nuit",
+    "url": "/womens/shop/clothing/lingerie/hosiery?is=Collants et bas"
+  },
+  {
+    "name": "Combinaisons et bodies",
+    "parentName": "Lingerie et vêtements de nuit",
+    "url": "/womens/shop/clothing/lingerie/slips-and-bodysuits?is=Combinaisons et bodies"
+  },
+  {
+    "name": "Culottes",
+    "parentName": "Lingerie et vêtements de nuit",
+    "url": "/womens/shop/clothing/lingerie/briefs?is=Culottes"
+  },
+  {
+    "name": "Lingerie sculptante",
+    "parentName": "Lingerie et vêtements de nuit",
+    "url": "/womens/shop/clothing/lingerie/shapewear?is=Lingerie sculptante"
+  },
+  {
+    "name": "Pyjamas",
+    "parentName": "Lingerie et vêtements de nuit",
+    "url": "/womens/shop/clothing/lingerie/sleepwear?is=Pyjamas"
+  },
+  {
+    "name": "Soutiens-gorge",
+    "parentName": "Lingerie et vêtements de nuit",
+    "url": "/womens/shop/clothing/lingerie/bras?is=Soutiens-gorge"
+  },
+  {
+    "name": "Cachemire",
+    "parentName": "Maille",
+    "url": "/womens/shop/clothing/knitwear/cashmere-knitwear?is=Cachemire"
+  },
+  {
+    "name": "Cardigans",
+    "parentName": "Maille",
+    "url": "/womens/shop/clothing/knitwear/cardigans?is=Cardigans"
+  },
+  {
+    "name": "Châles",
+    "parentName": "Maille",
+    "url": "/womens/shop/clothing/knitwear/shawls?is=Châles"
+  },
+  {
+    "name": "Cols roulés",
+    "parentName": "Maille",
+    "url": "/womens/shop/clothing/knitwear/rollnecks?is=Cols roulés"
+  },
+  {
+    "name": "Maille à détails",
+    "parentName": "Maille",
+    "url": "/womens/shop/clothing/knitwear/embellished-knitwear?is=Maille à détails"
+  },
+  {
+    "name": "Maille à motifs",
+    "parentName": "Maille",
+    "url": "/womens/shop/clothing/knitwear/patterned-knitwear?is=Maille à motifs"
+  },
+  {
+    "name": "Pulls",
+    "parentName": "Maille",
+    "url": "/womens/shop/clothing/knitwear/sweaters?is=Pulls"
+  },
+  {
+    "name": "Capes",
+    "parentName": "Manteaux",
+    "url": "/womens/shop/clothing/coats/capes?is=Capes"
+  },
+  {
+    "name": "Manteaux courts",
+    "parentName": "Manteaux",
+    "url": "/womens/shop/clothing/coats/short-coats?is=Manteaux courts"
+  },
+  {
+    "name": "Manteaux de jour",
+    "parentName": "Manteaux",
+    "url": "/womens/shop/clothing/coats/day-coats?is=Manteaux de jour"
+  },
+  {
+    "name": "Manteaux en cuir et en shearling",
+    "parentName": "Manteaux",
+    "url": "/womens/shop/clothing/coats/leather-coats?is=Manteaux en cuir et en shearling"
+  },
+  {
+    "name": "Manteaux en fourrure",
+    "parentName": "Manteaux",
+    "url": "/womens/shop/clothing/coats/fur-coats?is=Manteaux en fourrure"
+  },
+  {
+    "name": "Manteaux habillés",
+    "parentName": "Manteaux",
+    "url": "/womens/shop/clothing/coats/evening-coats?is=Manteaux habillés"
+  },
+  {
+    "name": "Manteaux longs",
+    "parentName": "Manteaux",
+    "url": "/womens/shop/clothing/coats/long-coats?is=Manteaux longs"
+  },
+  {
+    "name": "Manteaux matelassés",
+    "parentName": "Manteaux",
+    "url": "/womens/shop/clothing/coats/down-coats?is=Manteaux matelassés"
+  },
+  {
+    "name": "Parkas",
+    "parentName": "Manteaux",
+    "url": "/womens/shop/clothing/coats/parkas?is=Parkas"
+  },
+  {
+    "name": "Trench-coats",
+    "parentName": "Manteaux",
+    "url": "/womens/shop/clothing/coats/trench-coats?is=Trench-coats"
+  },
+  {
+    "name": "Vestes performance",
+    "parentName": "Manteaux",
+    "url": "/womens/shop/clothing/coats/performance-jackets?is=Vestes performance"
+  },
+  {
+    "name": "Jupes-culotte",
+    "parentName": "Pantalons",
+    "url": "/womens/shop/clothing/trousers/culottes?is=Jupes-culotte"
+  },
+  {
+    "name": "Leggings",
+    "parentName": "Pantalons",
+    "url": "/womens/shop/clothing/trousers/leggings?is=Leggings"
+  },
+  {
+    "name": "Pantalons amples",
+    "parentName": "Pantalons",
+    "url": "/womens/shop/clothing/trousers/wide-leg-trousers?is=Pantalons amples"
+  },
+  {
+    "name": "Pantalons casual",
+    "parentName": "Pantalons",
+    "url": "/womens/shop/clothing/trousers/casual-trousers?is=Pantalons casual"
+  },
+  {
+    "name": "Pantalons coupe droite",
+    "parentName": "Pantalons",
+    "url": "/womens/shop/clothing/trousers/straight-leg-trousers?is=Pantalons coupe droite"
+  },
+  {
+    "name": "Pantalons en cuir",
+    "parentName": "Pantalons",
+    "url": "/womens/shop/clothing/trousers/leather-trousers?is=Pantalons en cuir"
+  },
+  {
+    "name": "Pantalons habillés",
+    "parentName": "Pantalons",
+    "url": "/womens/shop/clothing/trousers/tailored-trousers?is=Pantalons habillés"
+  },
+  {
+    "name": "Pantalons raccourcis",
+    "parentName": "Pantalons",
+    "url": "/womens/shop/clothing/trousers/cropped-trousers?is=Pantalons raccourcis"
+  },
+  {
+    "name": "Pantalons skinny",
+    "parentName": "Pantalons",
+    "url": "/womens/shop/clothing/trousers/skinny-leg-trousers?is=Pantalons skinny"
+  },
+  {
+    "name": "Robes courtes",
+    "parentName": "Robes",
+    "url": "/womens/shop/clothing/dresses/mini-dresses?is=Robes courtes"
+  },
+  {
+    "name": "Robes de bureau",
+    "parentName": "Robes",
+    "url": "/womens/shop/clothing/dresses/work-dresses?is=Robes de bureau"
+  },
+  {
+    "name": "Robes de cocktail",
+    "parentName": "Robes",
+    "url": "/womens/shop/clothing/dresses/cocktail-dresses?is=Robes de cocktail"
+  },
+  {
+    "name": "Robes de jour",
+    "parentName": "Robes",
+    "url": "/womens/shop/clothing/dresses/day-dresses?is=Robes de jour"
+  },
+  {
+    "name": "Robes de plage",
+    "parentName": "Robes",
+    "url": "/womens/shop/clothing/dresses/beach-dresses?is=Robes de plage"
+  },
+  {
+    "name": "Robes de soirée",
+    "parentName": "Robes",
+    "url": "/womens/shop/clothing/dresses/evening-dresses?is=Robes de soirée"
+  },
+  {
+    "name": "Robes imprimées",
+    "parentName": "Robes",
+    "url": "/womens/shop/clothing/dresses/printed-dresses?is=Robes imprimées"
+  },
+  {
+    "name": "Robes longues",
+    "parentName": "Robes",
+    "url": "/womens/shop/clothing/dresses/maxi-dresses?is=Robes longues"
+  },
+  {
+    "name": "Robes longues de soirée",
+    "parentName": "Robes",
+    "url": "/womens/shop/clothing/dresses/gowns?is=Robes longues de soirée"
+  },
+  {
+    "name": "Robes mi-longues",
+    "parentName": "Robes",
+    "url": "/womens/shop/clothing/dresses/knee-length-dresses?is=Robes mi-longues"
+  },
+  {
+    "name": "Robes midi",
+    "parentName": "Robes",
+    "url": "/womens/shop/clothing/dresses/midi-dresses?is=Robes midi"
+  },
+  {
+    "name": "Robes pull",
+    "parentName": "Robes",
+    "url": "/womens/shop/clothing/dresses/sweater-dresses?is=Robes pull"
+  },
+  {
+    "name": "Robes à manches longues",
+    "parentName": "Robes",
+    "url": "/womens/shop/clothing/dresses/long-sleeved-dresses?is=Robes à manches longues"
+  },
+  {
+    "name": "Jupes-culottes",
+    "parentName": "Shorts",
+    "url": "/womens/shop/clothing/shorts/culottes?is=Jupes-culottes"
+  },
+  {
+    "name": "Shorts casual",
+    "parentName": "Shorts",
+    "url": "/womens/shop/clothing/shorts/casual?is=Shorts casual"
+  },
+  {
+    "name": "Shorts en cuir",
+    "parentName": "Shorts",
+    "url": "/womens/shop/clothing/shorts/leather-shorts?is=Shorts en cuir"
+  },
+  {
+    "name": "Shorts en denim",
+    "parentName": "Shorts",
+    "url": "/womens/shop/clothing/shorts/denim-shorts?is=Shorts en denim"
+  },
+  {
+    "name": "Shorts habillés",
+    "parentName": "Shorts",
+    "url": "/womens/shop/clothing/shorts/tailored-shorts?is=Shorts habillés"
+  },
+  {
+    "name": "Hauts de sport",
+    "parentName": "Sportswear",
+    "url": "/womens/shop/clothing/activewear/sports-tops?is=Hauts de sport"
+  },
+  {
+    "name": "Jupes et shorts de sport",
+    "parentName": "Sportswear",
+    "url": "/womens/shop/clothing/activewear/sports-skirts-and-shorts?is=Jupes et shorts de sport"
+  },
+  {
+    "name": "Leggings et pantalons de survêtement",
+    "parentName": "Sportswear",
+    "url": "/womens/shop/clothing/activewear/leggings-and-track-pants?is=Leggings et pantalons de survêtement"
+  },
+  {
+    "name": "Maillots de bain",
+    "parentName": "Sportswear",
+    "url": "/womens/shop/clothing/activewear/swimwear?is=Maillots de bain"
+  },
+  {
+    "name": "Robes de sport",
+    "parentName": "Sportswear",
+    "url": "/womens/shop/clothing/activewear/sports-dresses?is=Robes de sport"
+  },
+  {
+    "name": "Tenues de ski",
+    "parentName": "Sportswear",
+    "url": "/womens/shop/clothing/activewear/skiwear?is=Tenues de ski"
+  },
+  {
+    "name": "Vestes de sport",
+    "parentName": "Sportswear",
+    "url": "/womens/shop/clothing/activewear/jackets?is=Vestes de sport"
+  },
+  {
+    "name": "Tailleurs-jupes",
+    "parentName": "Tailleurs",
+    "url": "/womens/shop/clothing/suits/skirt-suits?is=Tailleurs-jupes"
+  },
+  {
+    "name": "Tailleurs-pantalons",
+    "parentName": "Tailleurs",
+    "url": "/womens/shop/clothing/suits/trouser-suits?is=Tailleurs-pantalons"
+  },
+  {
+    "name": "Blazers",
+    "parentName": "Vestes",
+    "url": "/womens/shop/clothing/jackets/blazers?is=Blazers"
+  },
+  {
+    "name": "Bombers",
+    "parentName": "Vestes",
+    "url": "/womens/shop/clothing/jackets/bomber-jackets?is=Bombers"
+  },
+  {
+    "name": "Capes",
+    "parentName": "Vestes",
+    "url": "/womens/shop/clothing/jackets/capes?is=Capes"
+  },
+  {
+    "name": "Perfectos",
+    "parentName": "Vestes",
+    "url": "/womens/shop/clothing/jackets/biker-jackets?is=Perfectos"
+  },
+  {
+    "name": "Vestes casual",
+    "parentName": "Vestes",
+    "url": "/womens/shop/clothing/jackets/casual-jackets?is=Vestes casual"
+  },
+  {
+    "name": "Vestes de soirée",
+    "parentName": "Vestes",
+    "url": "/womens/shop/clothing/jackets/evening-jackets?is=Vestes de soirée"
+  },
+  {
+    "name": "Vestes en cuir",
+    "parentName": "Vestes",
+    "url": "/womens/shop/clothing/jackets/leather-and-shearling-jackets?is=Vestes en cuir"
+  },
+  {
+    "name": "Vestes en fourrure",
+    "parentName": "Vestes",
+    "url": "/womens/shop/clothing/jackets/fur-jackets?is=Vestes en fourrure"
+  },
+  {
+    "name": "Vestes habillées",
+    "parentName": "Vestes",
+    "url": "/womens/shop/clothing/jackets/tailored-jackets?is=Vestes habillées"
+  },
+  {
+    "name": "Vestes sans manches",
+    "parentName": "Vestes",
+    "url": "/womens/shop/clothing/jackets/gilets?is=Vestes sans manches"
+  },
+  {
+    "name": "Bikinis",
+    "parentName": "Vêtements de plage",
+    "url": "/womens/shop/clothing/beachwear/bikinis?is=Bikinis"
+  },
+  {
+    "name": "Bikinis bandeau",
+    "parentName": "Vêtements de plage",
+    "url": "/womens/shop/clothing/beachwear/bandeau-bikinis?is=Bikinis bandeau"
+  },
+  {
+    "name": "Bikinis dos-nu",
+    "parentName": "Vêtements de plage",
+    "url": "/womens/shop/clothing/beachwear/halter-neck-bikinis?is=Bikinis dos-nu"
+  },
+  {
+    "name": "Bikinis triangle",
+    "parentName": "Vêtements de plage",
+    "url": "/womens/shop/clothing/beachwear/triangle-bikinis?is=Bikinis triangle"
+  },
+  {
+    "name": "Caftans",
+    "parentName": "Vêtements de plage",
+    "url": "/womens/shop/clothing/beachwear/kaftans?is=Caftans"
+  },
+  {
+    "name": "Maillots une pièce",
+    "parentName": "Vêtements de plage",
+    "url": "/womens/shop/clothing/beachwear/one-pieces?is=Maillots une pièce"
+  },
+  {
+    "name": "Robes de plage",
+    "parentName": "Vêtements de plage",
+    "url": "/womens/shop/clothing/beachwear/beach-dress?is=Robes de plage"
+  },
+  {
+    "name": "Tenues de plage",
+    "parentName": "Vêtements de plage",
+    "url": "/womens/shop/clothing/beachwear/cover-ups?is=Tenues de plage"
+  }
+]
